@@ -1,2 +1,2 @@
 # Atividades avaliativas
-MATERIAL DE AVALIAÇÃO PRÁTICA DE APRENDIZAGEM - no curso de Engenharia de Software da Unicesumar.
+Material De Avaliação Prática De Aprendizagem, no curso de Engenharia de Software da Unicesumar.
